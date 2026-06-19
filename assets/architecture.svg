@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 520" width="820" height="520" role="img" aria-label="Collaptics architecture">
+  <rect width="820" height="520" fill="#0b0f14"/>
+  <text x="410" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#eafcff">Collaptic Computing — substrate stack</text>
+
+  <!-- three-layer stack -->
+  <g font-family="Helvetica, Arial, sans-serif">
+    <rect x="120" y="78"  width="580" height="92" rx="10" fill="#12283a" stroke="#3da7c9"/>
+    <text x="140" y="112" font-size="20" fill="#7fe7ff">Photonic Interaction Layer</text>
+    <text x="140" y="140" font-size="14" fill="#bcdcea">carriers &amp; coupling — MZI mesh, WDM, lithium-niobate drive</text>
+
+    <rect x="120" y="186" width="580" height="92" rx="10" fill="#123a33" stroke="#46c9a6"/>
+    <text x="140" y="220" font-size="20" fill="#8af0d4">Resonance Dynamics Layer</text>
+    <text x="140" y="248" font-size="14" fill="#bcecdf">the collapse engine — coupled oscillators, bifurcation at threshold</text>
+
+    <rect x="120" y="294" width="580" height="92" rx="10" fill="#2e2440" stroke="#a98bdc"/>
+    <text x="140" y="328" font-size="20" fill="#cdb4ff">Persistent Collapton Layer</text>
+    <text x="140" y="356" font-size="14" fill="#ddd0f0">analog memory = compute — ferroelectric, memristive, spintronic states</text>
+  </g>
+
+  <!-- flow arrow -->
+  <g stroke="#7fe7ff" stroke-width="2" fill="none" opacity="0.8">
+    <line x1="410" y1="170" x2="410" y2="186" marker-end="url(#a)"/>
+    <line x1="410" y1="278" x2="410" y2="294" marker-end="url(#a)"/>
+  </g>
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7fe7ff"/>
+    </marker>
+  </defs>
+
+  <!-- governing law -->
+  <rect x="120" y="420" width="580" height="64" rx="10" fill="#0e151d" stroke="#3da7c9" stroke-dasharray="4 5"/>
+  <text x="410" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#eafcff">&#931; = I &#183; &#937;&#178;&#160;&#160;&#160;(&#160;&#937; = &#961;&#969;&#160;)</text>
+  <text x="410" y="474" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9cc4d6">resolving power = latent information &#215; coherent resonance squared</text>
+</svg>

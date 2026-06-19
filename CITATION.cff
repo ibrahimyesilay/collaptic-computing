@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: >-
+  Collaptic Computing: A Post-Binary Computational Paradigm
+  Based on Probability Fields, Photonic Resonance, and Informational Collapse
+abstract: >-
+  Collaptic Computing is a theoretical research framework that
+  explores a possible post-binary direction for computation. Information is
+  represented as continuous probability fields rather than discrete bits, and
+  computation proceeds through resonance, attractor formation, and informational
+  collapse. The framework is organized around a single constitutive relation,
+  Sigma = I * Omega^2, anchored to established results in stochastic dynamics,
+  information geometry, and condensed-matter physics. Its core predictions are
+  reproduced in simulation. Collaptics is built on established physics and does not yet
+  include a physical prototype.
+type: software
+authors:
+  - family-names: Yesilay
+    given-names: Ibrahim
+    orcid: "https://orcid.org/0009-0005-3667-9283"
+keywords:
+  - collaptic computing
+  - post-binary computing
+  - probability fields
+  - informational collapse
+  - photonic computing
+  - unconventional computing
+  - computer architecture
+  - information theory
+  - analog computing
+version: 1.1.1
+date-released: "2026-06-19"
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/ibrahimyesilay/collaptic-computing"
+url: "https://github.com/ibrahimyesilay/collaptic-computing"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20739592
+    description: Concept DOI (all versions)
+  - type: doi
+    value: 10.5281/zenodo.20754345
+    description: Version DOI (v1.1.1, CC BY-NC 4.0)
+preferred-citation:
+  type: report
+  title: >-
+    Collaptic Computing: A Post-Binary Computational Paradigm
+    Based on Probability Fields, Photonic Resonance, and Informational Collapse
+  authors:
+    - family-names: Yesilay
+      given-names: Ibrahim
+      orcid: "https://orcid.org/0009-0005-3667-9283"
+  year: 2026
+  institution:
+    name: Independent
+  license: CC-BY-NC-4.0

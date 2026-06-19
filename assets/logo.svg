@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480" role="img" aria-label="Collaptic Computing">
+  <defs>
+    <radialGradient id="well" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="60%" stop-color="#11202e"/>
+      <stop offset="100%" stop-color="#0b0f14"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7fe7ff"/>
+      <stop offset="45%" stop-color="#2aa9d6"/>
+      <stop offset="100%" stop-color="#11202e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="480" height="480" fill="url(#well)"/>
+  <!-- probability field collapsing inward: concentric rings tightening toward the singularity -->
+  <g fill="none" stroke="#3da7c9" stroke-opacity="0.55">
+    <circle cx="240" cy="240" r="200" stroke-opacity="0.10"/>
+    <circle cx="240" cy="240" r="168" stroke-opacity="0.16"/>
+    <circle cx="240" cy="240" r="134" stroke-opacity="0.24"/>
+    <circle cx="240" cy="240" r="100" stroke-opacity="0.34"/>
+    <circle cx="240" cy="240" r="68"  stroke-opacity="0.50"/>
+    <circle cx="240" cy="240" r="40"  stroke-opacity="0.70"/>
+  </g>
+  <!-- event horizon -->
+  <circle cx="240" cy="240" r="54" fill="none" stroke="#7fe7ff" stroke-opacity="0.85" stroke-dasharray="3 6" stroke-width="1.4"/>
+  <!-- the collaptic singularity -->
+  <circle cx="240" cy="240" r="30" fill="url(#core)"/>
+  <circle cx="240" cy="240" r="8"  fill="#eafcff"/>
+  <text x="240" y="432" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="30" fill="#dff3fb" letter-spacing="8">COLLAPTICS</text>
+</svg>

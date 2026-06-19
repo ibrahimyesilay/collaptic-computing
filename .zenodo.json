@@ -1,0 +1,28 @@
+{
+  "title": "Collaptic Computing: A Post-Binary Computational Paradigm Based on Probability Fields, Photonic Resonance, and Informational Collapse",
+  "description": "<p>Collaptic Computing is a theoretical research framework for a possible post-binary direction in computation. Information is represented as continuous probability fields rather than discrete bits, and computation proceeds through resonance, attractor formation, and informational collapse.</p><p>The framework is organized around a single constitutive relation, &Sigma; = I &middot; &Omega;&sup2;, anchored to established results in stochastic dynamics, information geometry, and condensed-matter physics.</p><p>Its core predictions are reproduced in simulation, and it is built on established physics. It does not yet include a physical prototype. The work is released for open discussion and long-term archival.</p>",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "access_right": "open",
+  "license": "cc-by-nc-4.0",
+  "version": "1.1.1",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Yesilay, Ibrahim",
+      "orcid": "0009-0005-3667-9283"
+    }
+  ],
+  "keywords": [
+    "collaptic computing",
+    "post-binary computing",
+    "probability fields",
+    "informational collapse",
+    "photonic computing",
+    "unconventional computing",
+    "computer architecture",
+    "information theory",
+    "analog computing"
+  ],
+  "notes": "Theoretical framework; core predictions reproduced in simulation. No physical prototype yet; built on established physics. Released under CC BY-NC 4.0; commercial rights retained by the author."
+}
